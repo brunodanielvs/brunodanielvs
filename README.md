@@ -1,7 +1,7 @@
 ### Welcome, I'm Bruno :)
 - 🔭 I’m currently searching for my first job.
 - 🌱 I’m currently learning DataBase and Python.
-- 💬 Ask me about physic, engineering and math or everything.
+- 💬 Ask me about physic, engineering and math or anything.
 - 📫 How to reach me: brunoswawey@gmail.com / brunodanielvs@gmail.com / [Telegram](https://t.me/brunodanielvs)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like dogs and cats.
