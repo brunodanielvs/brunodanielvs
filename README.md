@@ -1,6 +1,6 @@
 ### Welcome, I'm Bruno :)
 - 🔭 I’m currently searching for my first job.
-- 🌱 I’m currently learning DataBase and Python.
+- 🌱 I’m currently learning DataBase, Python and AWS.
 - 💬 Ask me about physic, engineering and math or anything.
 - 📫 How to reach me: brunoswawey@gmail.com / brunodanielvs@gmail.com / [Telegram](https://t.me/brunodanielvs)
 - 😄 Pronouns: he/him
